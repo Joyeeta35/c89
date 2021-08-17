@@ -1,0 +1,14 @@
+body{
+    background-color:indigo;
+}
+#log1{
+    background: linear-gradient(#fce7f3 0%, #a0a2f1 100%);
+    border-radius: 50%;
+}
+#log2{
+    background: linear-gradient(#fce7f3 0%, #a0a2f1 100%);
+    border-radius: 50%;
+}
+h1{
+    color: white;
+}
